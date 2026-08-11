@@ -6,18 +6,18 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Badges for Html, Css, Javascript, Python, Three.js, Node.js, Docker, Kubernetes, Swift, Flutter -->
+<!-- Gray Tech Stack Badges -->
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=cccccc)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=cccccc)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=cccccc)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=cccccc)](https://www.python.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-555555?style=for-the-badge&logo=three.js&logoColor=cccccc)](https://threejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=nodedotjs&logoColor=cccccc)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=cccccc)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-555555?style=for-the-badge&logo=kubernetes&logoColor=cccccc)](https://kubernetes.io/)
+[![Swift](https://img.shields.io/badge/Swift-555555?style=for-the-badge&logo=swift&logoColor=cccccc)](https://swift.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-555555?style=for-the-badge&logo=flutter&logoColor=cccccc)](https://flutter.dev/)
 
 <br/>
 
@@ -34,14 +34,12 @@
 
 ## 📊 Analytics & Activity
 
-<!-- Tabs configured with Matte Black background (#121212 / #0d1117) and Off-White text (#E0E0E0 / #FAF3DD) -->
-
 <details open>
   <summary><b>📈 GitHub Analytics & Total Repos</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=balrajsallan&show_icons=true&theme=dark&bg_color=121212&title_color=E0E0E0&text_color=B0B0B0&icon_color=FFFFFF&border_color=333333" alt="Balraj's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balrajsallan&layout=compact&theme=dark&bg_color=121212&title_color=E0E0E0&text_color=B0B0B0&border_color=333333" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-now.vercel.app/api?username=balrajsallan&show_icons=true&theme=dark&bg_color=121212&title_color=E0E0E0&text_color=B0B0B0&icon_color=CCCCCC&border_color=333333" alt="Balraj's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=balrajsallan&layout=compact&theme=dark&bg_color=121212&title_color=E0E0E0&text_color=B0B0B0&border_color=333333" alt="Top Languages" />
   </div>
 </details>
 
@@ -49,7 +47,7 @@
   <summary><b>⭐ Stars & Contribution Streak</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=balrajsallan&theme=dark&background=121212&title=E0E0E0&text=B0B0B0&sideicons=FFFFFF&border=333333" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=balrajsallan&theme=dark&background=121212&title=E0E0E0&text=B0B0B0&sideicons=CCCCCC&border=333333" alt="GitHub Streak" />
   </div>
 </details>
 
@@ -57,7 +55,7 @@
   <summary><b>🔥 Contribution Activity & Commit Graph</b></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=balrajsallan&theme=react-dark&bg_color=121212&color=E0E0E0&line=FFFFFF&point=CCCCCC&area=true&hide_border=true" alt="Commit Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=balrajsallan&theme=react-dark&bg_color=121212&color=E0E0E0&line=CCCCCC&point=CCCCCC&area=true&hide_border=true" alt="Commit Graph" />
   </div>
 </details>
 
@@ -80,4 +78,3 @@
 <div align="center">
   <sub>Designed with precision for <b>@balrajsallan</b></sub>
 </div>
-
