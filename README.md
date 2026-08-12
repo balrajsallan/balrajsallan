@@ -7,9 +7,9 @@
 
   <br/>
 
-  <!-- Profile Introduction -->
-  <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif;">
-    <b>Balraj Sallan</b> is an innovative Software Developer dedicated to engineering elegant, scalable, and user-centric digital experiences. Possessing a versatile technical arsenal—spanning core web technologies like HTML5, CSS3, and JavaScript, to high-performance languages and frameworks like Python, Swift, Node.js, and Three.js—Balraj seamlessly bridges creative front-end aesthetics with robust backend systems. Beyond web and mobile development, his expertise in modern DevOps tools like Docker and Kubernetes reflects a strong commitment to cloud-native practices, deployment automation, and system reliability.
+  <!-- Profile Introduction with Grey Small Text -->
+  <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; color: #CCCCCC; max-width: 800px; line-height: 1.6;">
+    <strong style="color: #FFFFFF;">Balraj Sallan</strong> is an innovative Software Developer dedicated to engineering elegant, scalable, and user-centric digital experiences. Possessing a versatile technical arsenal—spanning core web technologies like HTML5, CSS3, and JavaScript, to high-performance languages and frameworks like Python, Swift, Node.js, and Three.js—Balraj seamlessly bridges creative front-end aesthetics with robust backend systems. Beyond web and mobile development, his expertise in modern DevOps tools like Docker and Kubernetes reflects a strong commitment to cloud-native practices, deployment automation, and system reliability.
   </p>
 
   <br/>
@@ -54,15 +54,19 @@
   <summary><b>Comprehensive Project Descriptions</b></summary>
   <br/>
 
-  * **[Inteligence](#)** — **Inteligence** is a forward-thinking platform engineered at the intersection of modern aesthetic design and next-generation computational capability. Built with a sophisticated architecture that leverages modern web standards, light-and-dark balancing visuals, and immersive interactive graphics, the platform delivers an intuitive experience tailored for the modern digital era. Behind its streamlined interface lies a robust ecosystem designed to simplify complex workflows, surface data-driven insights, and push the boundaries of user interaction through smooth real-time rendering.
+  <span style="color: #CCCCCC;">
   
-  * **[Habit Tracker](#)** — **Habit Tracker** is a sleek, web-based productivity application designed to help users build consistency and achieve their personal goals through intuitive daily tracking. Engineered using modern HTML5 structures paired with responsive CSS styling and interactive JavaScript logic, the project offers a clean, user-friendly interface that simplifies habit monitoring.
+  * **[Inteligence](#)** — <span style="color: #A0A0A0;"><b>Inteligence</b> is a forward-thinking platform engineered at the intersection of modern aesthetic design and next-generation computational capability. Built with a sophisticated architecture that leverages modern web standards, light-and-dark balancing visuals, and immersive interactive graphics, the platform delivers an intuitive experience tailored for the modern digital era. Behind its streamlined interface lies a robust ecosystem designed to simplify complex workflows, surface data-driven insights, and push the boundaries of user interaction through smooth real-time rendering.</span>
   
-  * **[Tic Tac Toe](#)** — **Tic Tac Toe** is an interactive, browser-based recreation of the timeless strategy game, built using modern web development fundamentals to deliver a smooth, engaging user experience. Engineered with clean HTML5 markup, responsive CSS styling, and dynamic JavaScript logic, the application seamlessly handles turn-based mechanics and state management.
+  * **[Habit Tracker](#)** — <span style="color: #A0A0A0;"><b>Habit Tracker</b> is a sleek, web-based productivity application designed to help users build consistency and achieve their personal goals through intuitive daily tracking. Engineered using modern HTML5 structures paired with responsive CSS styling and interactive JavaScript logic, the project offers a clean, user-friendly interface that simplifies habit monitoring.</span>
+  
+  * **[Tic Tac Toe](#)** — <span style="color: #A0A0A0;"><b>Tic Tac Toe</b> is an interactive, browser-based recreation of the timeless strategy game, built using modern web development fundamentals to deliver a smooth, engaging user experience. Engineered with clean HTML5 markup, responsive CSS styling, and dynamic JavaScript logic, the application seamlessly handles turn-based mechanics and state management.</span>
+  
+  </span>
 </details>
 
 ---
 
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif;">
-  <sub>Designed & Engineered with precision for <b>@balrajsallan</b></sub>
+  <sub style="color: #888888;">Designed & Engineered with precision for <b style="color: #AAAAAA;">@balrajsallan</b></sub>
 </div>
