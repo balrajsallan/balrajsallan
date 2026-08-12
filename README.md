@@ -32,35 +32,6 @@
 
 ---
 
-## 📊 Analytics & Activity
-
-<details open>
-  <summary><b>📈 GitHub Analytics & Total Repos</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats-eight-now.vercel.app/api?username=balrajsallan&show_icons=true&theme=dark&bg_color=121212&title_color=E0E0E0&text_color=B0B0B0&icon_color=CCCCCC&border_color=333333" alt="Balraj's GitHub Stats" />
-    <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=balrajsallan&layout=compact&theme=dark&bg_color=121212&title_color=E0E0E0&text_color=B0B0B0&border_color=333333" alt="Top Languages" />
-  </div>
-</details>
-
-<details open>
-  <summary><b>⭐ Stars & Contribution Streak</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=balrajsallan&theme=dark&background=121212&title=E0E0E0&text=B0B0B0&sideicons=CCCCCC&border=333333" alt="GitHub Streak" />
-  </div>
-</details>
-
-<details>
-  <summary><b>🔥 Contribution Activity & Commit Graph</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=balrajsallan&theme=react-dark&bg_color=121212&color=E0E0E0&line=CCCCCC&point=CCCCCC&area=true&hide_border=true" alt="Commit Graph" />
-  </div>
-</details>
-
----
-
 ## 🚀 Featured Projects
 
 <details open>
