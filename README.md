@@ -15,6 +15,12 @@
     Full-Stack & Cloud Architect · Crafting Digital Experiences
   </p>
 
+  <!-- Contribution Counter Badge -->
+  <p align="center">
+    <img src="https://img.shields.io/github/search/balrajsallan/balrajsallan/main?color=181818&style=for-the-badge&label=Total%20Contributions&labelColor=000000" alt="Total Contributions Counter" />
+    <img src="https://github-profile-trophy.vercel.app/?username=balrajsallan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Contribution Trophies" />
+  </p>
+
   <br/>
 
   <!-- Profile Introduction with Grey Small Text -->
