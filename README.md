@@ -1,7 +1,7 @@
 <div align="center">
 
 ###  Software Developer
-## **Balraj Sallan** is a highly skilled and forward-thinking Software Developer with a passion for building elegant, scalable, and user-centric digital experiences. Possessing a versatile technical arsenal—spanning core web technologies like HTML5, CSS3, and JavaScript, to high-performance languages and frameworks like Python, Swift, Node.js, and Three.js—Balraj seamlessly bridges creative front-end aesthetics with robust backend systems. Beyond web and mobile development, his expertise in modern DevOps tools like Docker and Kubernetes reflects a strong commitment to cloud-native practices, deployment automation, and system reliability. Driven by continuous innovation, Balraj crafts modern software solutions that harmonize clean code, interactive graphics, and intuitive functionality.
+* **Balraj Sallan** is a highly skilled and forward-thinking Software Developer with a passion for building elegant, scalable, and user-centric digital experiences. Possessing a versatile technical arsenal—spanning core web technologies like HTML5, CSS3, and JavaScript, to high-performance languages and frameworks like Python, Swift, Node.js, and Three.js—Balraj seamlessly bridges creative front-end aesthetics with robust backend systems. Beyond web and mobile development, his expertise in modern DevOps tools like Docker and Kubernetes reflects a strong commitment to cloud-native practices, deployment automation, and system reliability. Driven by continuous innovation, Balraj crafts modern software solutions that harmonize clean code, interactive graphics, and intuitive functionality.
 
 <br/>
 
