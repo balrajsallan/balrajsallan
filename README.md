@@ -7,29 +7,29 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Sleek Black Tech Stack Badges -->
+<!-- Matte Black Tech Stack Badges -->
 
-[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-181818?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-181818?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Swift](https://img.shields.io/badge/Swift-181818?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-181818?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 <br/>
 
 ### 🌐 Connect With Me
 
-<!-- Sleek Black Social Badges -->
+<!-- Matte Black Social Badges -->
 
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@balrajsallani?si=_rwopgQ2rPgh4106)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balraj-sallan-a22724426?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/balie.in?igsh=MXdnNzEyc3dkNGtnOQ==)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61551654367713&mibextid=wwXIfr&mibextid=wwXIfr)
+[![YouTube](https://img.shields.io/badge/YouTube-181818?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@balrajsallani?si=_rwopgQ2rPgh4106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balraj-sallan-a22724426?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Instagram](https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/balie.in?igsh=MXdnNzEyc3dkNGtnOQ==)
+[![Facebook](https://img.shields.io/badge/Facebook-181818?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61551654367713&mibextid=wwXIfr&mibextid=wwXIfr)
 
 </div>
 
