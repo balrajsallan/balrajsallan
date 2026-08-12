@@ -26,7 +26,7 @@
 
   <br/>
 
-  ### 🛠️ Tech Stack & Arsenal
+  ### Tech Stack & Arsenal
 
   <!-- Matte Black Tech Stack Badges -->
   [![HTML5](https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -42,7 +42,7 @@
 
   <br/>
 
-  ### 🌐 Connect & Network
+  ### Connect & Network
 
   <!-- Matte Black Social Badges -->
   [![YouTube](https://img.shields.io/badge/YouTube-181818?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@balrajsallani?si=_rwopgQ2rPgh4106)
@@ -54,16 +54,16 @@
 
 ---
 
-## 🚀 Featured Projects & Systems
+## Featured Projects & Systems
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
-| 🤖 **[Inteligence](https://github.com/balrajsallan)** | Forward-thinking platform engineered at the intersection of modern aesthetic design and next-gen computation with interactive 3D graphics. | `Three.js` `Node.js` `WebGL` |
-| 📊 **[Habit Tracker](https://github.com/balrajsallan)** | Sleek productivity application helping users build daily consistency with streak visualizers and client-side state management. | `HTML5` `CSS3` `JavaScript` |
-| 🎮 **[Tic Tac Toe](https://github.com/balrajsallan)** | Interactive strategy game featuring dynamic turn mechanics, win detection algorithms, and minimalist animations. | `JavaScript` `DOM` `CSS3` |
+| **[Inteligence](#)** | Forward-thinking platform engineered at the intersection of modern aesthetic design and next-gen computation with interactive 3D graphics. | `Three.js` `Node.js` `WebGL` |
+| **[Habit Tracker](#)** | Sleek productivity application helping users build daily consistency with streak visualizers and client-side state management. | `HTML5` `CSS3` `JavaScript` |
+| **[Tic Tac Toe](#)** | Interactive strategy game featuring dynamic turn mechanics, win detection algorithms, and minimalist animations. | `JavaScript` `DOM` `CSS3` |
 
 <details open>
-  <summary><b>📖 Comprehensive Project Descriptions</b></summary>
+  <summary><b>Comprehensive Project Descriptions</b></summary>
   <br/>
 
   * **[Inteligence](#)** — **Inteligence** is a forward-thinking platform engineered at the intersection of modern aesthetic design and next-generation computational capability. Built with a sophisticated architecture that leverages modern web standards, light-and-dark balancing visuals, and immersive interactive graphics, the platform delivers an intuitive experience tailored for the modern digital era. Behind its streamlined interface lies a robust ecosystem designed to simplify complex workflows, surface data-driven insights, and push the boundaries of user interaction through smooth real-time rendering.
@@ -75,7 +75,7 @@
 
 ---
 
-## 🐍 Contribution Graph Matrix
+## Contribution Graph Matrix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/balrajsallan/balrajsallan/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
