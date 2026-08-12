@@ -1,9 +1,19 @@
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
 
-  <!-- Animated Typing Banner -->
-  <a href="https://github.com/balrajsallan">
-    <img src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Full-Stack+%26+Cloud+Architect;Crafting+Digital+Experiences;Continuous+Learner+%26+Creator" alt="Typing SVG" />
-  </a>
+  <!-- GitHub Contribution Graph -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balrajsallan&theme=dark" alt="Contribution Graph" width="100%" />
+  </p>
+
+  <br/>
+
+  <!-- Static Software Developer Title -->
+  <h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; color: #FFFFFF; font-weight: 700; margin-bottom: 5px;">
+    Software Developer
+  </h1>
+  <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; color: #888888; font-size: 16px; margin-top: 0;">
+    Full-Stack & Cloud Architect · Crafting Digital Experiences
+  </p>
 
   <br/>
 
@@ -35,7 +45,7 @@
   <!-- Matte Black Social Badges -->
   [![YouTube](https://img.shields.io/badge/YouTube-181818?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@balrajsallani)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balraj-sallan-a22724426)
-  [![Instagram](https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/balie.in)
+  [![Instagram](https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimes.labs)
   [![Facebook](https://img.shields.io/badge/Facebook-181818?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61551654367713)
 
 </div>
