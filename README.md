@@ -38,10 +38,9 @@
   <summary><b>📁 Showcase Repositories</b></summary>
   <br/>
   
-  * **[Project Title 1](#)** — A concise description of your top project using technologies like Node.js or Three.js.
-  * **[Project Title 2](#)** — Another featured project showcasing mobile or web development (e.g., Flutter / Python).
-  * **[Project Title 3](#)** — Key repository highlight.
-
+  * **[Inteligence](#)** — **Inteligence** is a forward-thinking platform engineered at the intersection of modern aesthetic design and next-generation computational capability. Built with a sophisticated architecture that leverages modern web standards, light-and-dark balancing visuals, and immersive interactive graphics, the platform delivers an intuitive experience tailored for the modern digital era. Behind its streamlined interface lies a robust ecosystem designed to simplify complex workflows, surface data-driven insights, and push the boundaries of user interaction through smooth real-time rendering and adaptive design systems. By bridging high-performance backend technology with an ultra-sleek visual presence, Inteligence serves as a dynamic hub where cutting-edge software engineering, creative vision, and intelligence seamlessly converge.
+  * **[Habit Taken](#)** — **Habit Tracker** is a sleek, web-based productivity application designed to help users build consistency and achieve their personal goals through intuitive daily tracking. Engineered using modern HTML5 structures paired with responsive CSS styling and interactive JavaScript logic, the project offers a clean, user-friendly interface that simplifies habit monitoring. Users can easily add custom daily routines, log their completion progress in real time, and visualize their streaks through interactive visual indicators. Built with client-side state management, the application provides an instant, seamless experience that keeps users focused, motivated, and organized on their personal development journey.
+  * **[Tic Tac Toe](#)** — **Tic Tac Toe** is an interactive, browser-based recreation of the timeless strategy game, built using modern web development fundamentals to deliver a smooth, engaging user experience. Engineered with clean HTML5 markup, responsive CSS styling, and dynamic JavaScript logic, the application seamlessly handles turn-based mechanics, real-time win and draw detection, and state management. The project features an intuitive, minimalist interface complete with smooth animations, clear visual feedback, and instant game reset functionality, demonstrating core front-end principles such as DOM manipulation, event handling, and conditional game logic.
 </details>
 
 ---
