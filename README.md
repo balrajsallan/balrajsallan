@@ -11,7 +11,7 @@
   <h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; color: #FFFFFF; font-weight: 700; margin-bottom: 5px;">
     Software Developer
   </h1>
-  <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; color: #888888; font-size: 16px; margin-top: 0;">
+  <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif; color: 	#818589; font-size: 16px; margin-top: 0;">
     Full-Stack & Cloud Architect · Crafting Digital Experiences
   </p>
 
